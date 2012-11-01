@@ -7,9 +7,9 @@ TOPIC = "Live Chat - Someone will be with you shortly :)"
 # Time settings
 TIME_ZONE = 'US/Central'
 OPEN_HR = 9
-OPEN_MIN = 0
+OPEN_MIN = 00
 CLOSE_HR = 17
-CLOSE_MIN = 0
+CLOSE_MIN = 00
 
 # Server settings
 SERVER_HOST = 'localhost'
